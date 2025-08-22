@@ -341,10 +341,6 @@
       "PackagePath": "staticwebassets/hola-master/inc/sendEmail.php"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/index.html",
-      "PackagePath": "staticwebassets/hola-master/index.html"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/js/jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets/hola-master/js/jquery-3.2.1.min.js"
     },

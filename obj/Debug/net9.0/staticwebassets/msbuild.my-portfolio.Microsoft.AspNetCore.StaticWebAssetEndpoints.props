@@ -1008,18 +1008,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CxMnrepAp84YbBKGp5FWLsJEwdpq84CEpGTdcXZvmMo="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2137"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022CxMnrepAp84YbBKGp5FWLsJEwdpq84CEpGTdcXZvmMo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/index.041crwksfe.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\index.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"041crwksfe"},{"Name":"integrity","Value":"sha256-YLRrJU/tSRTMc5BgvHb6eZHmEX0vCy9d5sUTpVmHDjA="},{"Name":"label","Value":"_content/my-portfolio/hola-master/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41240"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022YLRrJU/tSRTMc5BgvHb6eZHmEX0vCy9d5sUTpVmHDjA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/index.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\index.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YLRrJU/tSRTMc5BgvHb6eZHmEX0vCy9d5sUTpVmHDjA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41240"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022YLRrJU/tSRTMc5BgvHb6eZHmEX0vCy9d5sUTpVmHDjA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/js/jquery-3.2.1.min.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\js\jquery-3.2.1.min.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
