@@ -1,13 +1,12 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
-
 using my_portfolio.Models.Entities;
-
 
 namespace my_portfolio.Models.Context
 {
     public class DataContext : DbContext
     {
+        public DataContext() { }
+
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
         public DbSet<About> Abouts { get; set; }
@@ -19,5 +18,14 @@ namespace my_portfolio.Models.Context
         public DbSet<Skill> Skills { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlite("Data Source=database.db");
+
+            }
+        }
     }
 }
