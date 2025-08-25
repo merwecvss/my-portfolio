@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Experience/CreateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZXJpZW5jZS9DcmVhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Experience/ExperienceList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZXJpZW5jZS9FeHBlcmllbmNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
