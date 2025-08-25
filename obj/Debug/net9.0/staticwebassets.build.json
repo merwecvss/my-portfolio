@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Znoz2AX46nV7iLJBtfYsNICfsUKwdaYG7xL39ohlXTk=",
+  "Hash": "A7TLtWulOLKBY/fz5DG9AzVvH8/jx4D+GQXDuHCMqqI=",
   "Source": "my-portfolio",
   "BasePath": "_content/my-portfolio",
   "Mode": "Default",
@@ -1844,12 +1844,12 @@
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/plugin/jquery-mapael/maps/france_departments.js"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "Ready-Bootstrap-Dashboard-master/tables#[.{fingerprint=a6rasg20le}]?.html.gz",
+      "RelativePath": "Ready-Bootstrap-Dashboard-master/tables#[.{fingerprint=ig1ucwu2aw}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1858,8 +1858,8 @@
       "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/tables.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0n7mwk2p5w",
-      "Integrity": "LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI=",
+      "Fingerprint": "xe9wo24q00",
+      "Integrity": "V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/tables.html"
@@ -7360,8 +7360,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a6rasg20le",
-      "Integrity": "EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=",
+      "Fingerprint": "ig1ucwu2aw",
+      "Integrity": "HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Ready-Bootstrap-Dashboard-master/tables.html"
@@ -51656,13 +51656,13 @@
       ]
     },
     {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.a6rasg20le.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz",
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.html",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000264690312"
+          "Quality": "0.000367511944"
         }
       ],
       "ResponseHeaders": [
@@ -51672,19 +51672,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3777"
+          "Value": "2720"
         },
         {
           "Name": "ETag",
-          "Value": "\"LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI=\""
+          "Value": "\"V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -51700,26 +51700,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\""
+          "Value": "W/\"HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "a6rasg20le"
-        },
-        {
-          "Name": "label",
-          "Value": "Ready-Bootstrap-Dashboard-master/tables.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="
+          "Value": "sha256-HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw="
         }
       ]
     },
     {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.a6rasg20le.html",
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.html",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/tables.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -51729,7 +51721,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23349"
+          "Value": "10790"
         },
         {
           "Name": "Content-Type",
@@ -51737,11 +51729,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\""
+          "Value": "\"HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.html.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.ig1ucwu2aw.html",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000367511944"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2720"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ig1ucwu2aw"
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/tables.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.ig1ucwu2aw.html",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/tables.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10790"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51751,7 +51888,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a6rasg20le"
+          "Value": "ig1ucwu2aw"
         },
         {
           "Name": "label",
@@ -51759,13 +51896,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="
+          "Value": "sha256-HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw="
         }
       ]
     },
     {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.a6rasg20le.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz",
+      "Route": "Ready-Bootstrap-Dashboard-master/tables.ig1ucwu2aw.html.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -51774,7 +51911,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3777"
+          "Value": "2720"
         },
         {
           "Name": "Content-Type",
@@ -51782,11 +51919,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI=\""
+          "Value": "\"V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Mon, 25 Aug 2025 14:11:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51804,7 +51941,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a6rasg20le"
+          "Value": "ig1ucwu2aw"
         },
         {
           "Name": "label",
@@ -51812,144 +51949,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI="
-        }
-      ]
-    },
-    {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000264690312"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3777"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="
-        }
-      ]
-    },
-    {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/tables.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23349"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="
-        }
-      ]
-    },
-    {
-      "Route": "Ready-Bootstrap-Dashboard-master/tables.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3777"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LCCQVUEqMDBQ4S/L396kp5AbenwvQFZTDrAeo/ggZeI="
+          "Value": "sha256-V+gNYjL6zYeq3+exR7LQOvhU/jD/SZXlvAu7cVlNg04="
         }
       ]
     },

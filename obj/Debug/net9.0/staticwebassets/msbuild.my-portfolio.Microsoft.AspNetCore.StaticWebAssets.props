@@ -4116,8 +4116,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a6rasg20le</Fingerprint>
-      <Integrity>EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=</Integrity>
+      <Fingerprint>ig1ucwu2aw</Fingerprint>
+      <Integrity>HjHokrimVBeDxCo15dZIl+PgVzfshO6iDwzpdjLOBzw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\tables.html'))</OriginalItemSpec>

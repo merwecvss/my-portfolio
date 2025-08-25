@@ -274,5 +274,5 @@
 /Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/sa3s9nllo2-77fry94l2g.gz
 /Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/672jrzgv6g-f2uwn8o6aq.gz
 /Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/niy51mczqm-ler49wpb5b.gz
-/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-a6rasg20le.gz
 /Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wpog04sm9d-d7ozlw4pul.gz
+/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/qr774wm61s-ig1ucwu2aw.gz

@@ -2736,17 +2736,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vdyUk0miU9Zd68GpqmIPlIIjTUPxjqCIU3FKto\u002BGA7M="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022vdyUk0miU9Zd68GpqmIPlIIjTUPxjqCIU3FKto\u002BGA7M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/Ready-Bootstrap-Dashboard-master/tables.a6rasg20le.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\tables.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a6rasg20le"},{"Name":"integrity","Value":"sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="},{"Name":"label","Value":"_content/my-portfolio/Ready-Bootstrap-Dashboard-master/tables.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23349"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-portfolio/Ready-Bootstrap-Dashboard-master/tables.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\tables.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23349"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022EqRq1p9l5I9EBfxXc5fWH4SyHiGsBOusbN6coK6CDso=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HjHokrimVBeDxCo15dZIl\u002BPgVzfshO6iDwzpdjLOBzw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10790"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HjHokrimVBeDxCo15dZIl\u002BPgVzfshO6iDwzpdjLOBzw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Aug 2025 14:11:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/Ready-Bootstrap-Dashboard-master/tables.ig1ucwu2aw.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\tables.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ig1ucwu2aw"},{"Name":"integrity","Value":"sha256-HjHokrimVBeDxCo15dZIl\u002BPgVzfshO6iDwzpdjLOBzw="},{"Name":"label","Value":"_content/my-portfolio/Ready-Bootstrap-Dashboard-master/tables.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10790"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HjHokrimVBeDxCo15dZIl\u002BPgVzfshO6iDwzpdjLOBzw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Aug 2025 14:11:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-portfolio/Ready-Bootstrap-Dashboard-master/typography.d7ozlw4pul.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\typography.html'))</AssetFile>
