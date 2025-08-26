@@ -136,6 +136,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhdGlzdGljL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/ToDoList/CreateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb0xpc3QvQ3JlYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/ToDoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb0xpc3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/ToDoList/UpdateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb0xpc3QvVXBkYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
