@@ -19,6 +19,7 @@ namespace my_portfolio.Models.Context
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<ToDoList> ToDoLists { get; set; }
+        public DbSet<Statistic> Statistics { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
