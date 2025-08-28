@@ -124,6 +124,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/SocialMedia/CreateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWFsTWVkaWEvQ3JlYXRlU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/SocialMedia/EditSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWFsTWVkaWEvRWRpdFNvY2lhbE1lZGlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/SocialMedia/SocialMediaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWFsTWVkaWEvU29jaWFsTWVkaWFMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Statistic/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhdGlzdGljL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
