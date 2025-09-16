@@ -2,38 +2,38 @@
 
 
 <section id="about" class="s-about target-section">
-        
-        <div class="row narrow section-intro has-bottom-sep">
-            <div class="col-full text-center">
-                <h3>Hakkımda</h3>
-                <h1>@ViewBag.aboutTitle</h1>
-                <p class="lead">@ViewBag.aboutSubDescription</p>
-            </div>
+
+    <div class="row narrow section-intro has-bottom-sep">
+        <div class="col-full text-center">
+            <h3>Hakkımda</h3>
+            <h1>@ViewBag.aboutTitle</h1>
+            <p class="lead">@ViewBag.aboutSubDescription</p>
+        </div>
+    </div>
+
+    <div class="row about-content">
+
+        <div class="col-six tab-full left">
+            <h3>Ben Kimim?</h3>
+
+            <p>@ViewBag.aboutDetail</p>
         </div>
 
-        <div class="row about-content">
+        @await Component.InvokeAsync("_SkillComponentPartial")
 
-            <div class="col-six tab-full left">
-                <h3>Ben Kimim?</h3>
+    </div> <!-- end about-content -->
 
-                <p>@ViewBag.aboutDetail</p>
-            </div>
+    <div class="row about-content about-content--buttons">
 
-            @await Component.InvokeAsync("_SkillComponentPartial")
+        <div class="col-six tab-full left">
+            <a href="~/hola-master/MerveCv.pdf" target="_blank" class="btn btn--primary full-width">CV'mi İndirin</a>
+        </div>
+        <div class="col-six tab-full right">
+            <a href="#contact" class="btn full-width">Bana Yazın</a>
+        </div>
 
-        </div> <!-- end about-content -->
+    </div> <!-- end about-content buttons -->
 
-        <div class="row about-content about-content--buttons">
+    @await Component.InvokeAsync("_ExperienceComponentPartial")
 
-            <div class="col-six tab-full left">
-                <a href="#0" class="btn btn--primary full-width">CV'mi İndirin</a>
-            </div>
-            <div class="col-six tab-full right">
-                <a href="#0" class="btn full-width">Bana Yazın</a>
-            </div>
-
-        </div> <!-- end about-content buttons -->
-
-          @await Component.InvokeAsync("_ExperienceComponentPartial")  
-
-    </section> 
+</section>

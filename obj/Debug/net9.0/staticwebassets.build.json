@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7YXUbCEaZvc6RJyt5BYcTiZBc3ZHJRvgcmfWWZqKBrs=",
+  "Hash": "WVPxoPTLEdQZ+e8DTbKpFKV0ozM38NVqYU0lipVRMjM=",
   "Source": "my-portfolio",
   "BasePath": "_content/my-portfolio",
   "Mode": "Default",
@@ -3524,12 +3524,12 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/photoswipe/preloader.gif"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/blog-web-site.png",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/beetle#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/portfolio/blog-web-site#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3538,19 +3538,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sp6xmlign2",
-      "Integrity": "wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg=",
+      "Fingerprint": "z64tqikorc",
+      "Integrity": "hSMTmMboBPPkbhBrTya00o+4JPkIoe1kurVIV3Jec20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/beetle.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/blog-web-site.png"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/fastfood-web-site.png",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-beetle#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/portfolio/fastfood-web-site#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3559,19 +3559,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uz63ip3cku",
-      "Integrity": "1jOyh8ZQ+Pzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4=",
+      "Fingerprint": "f46lumwmmy",
+      "Integrity": "wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/fastfood-web-site.png"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-bicycle.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/freelancer-web-site.png",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-bicycle#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/portfolio/freelancer-web-site#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3580,19 +3580,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3hkfln3qsu",
-      "Integrity": "mUlCebKv8OboU8XYl+fDTxwg8U0GIu+/U2gpXPcjLaU=",
+      "Fingerprint": "ha5x2wr5cw",
+      "Integrity": "CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p+GNBnJU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-bicycle.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/freelancer-web-site.png"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-liberty.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/hotel-web-site.png",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-liberty#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/portfolio/hotel-web-site#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3601,19 +3601,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3jci3gpefc",
-      "Integrity": "70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo+YSNg=",
+      "Fingerprint": "u6isjnxyhp",
+      "Integrity": "6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-liberty.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/hotel-web-site.png"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-lighthouse.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/news-web-site.png",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-lighthouse#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/portfolio/news-web-site#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3622,263 +3622,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ckdzfc8qu1",
-      "Integrity": "lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA=",
+      "Fingerprint": "m73njofyna",
+      "Integrity": "/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-lighthouse.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-minimalismo.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-minimalismo#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gd1lebqq09",
-      "Integrity": "zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-minimalismo.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-salad.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-salad#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "25ezq9galw",
-      "Integrity": "VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-salad.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-shutterbug.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-shutterbug#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6at9nsxycj",
-      "Integrity": "ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-shutterbug.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-skaterboy.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-skaterboy#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "htrhjue64r",
-      "Integrity": "683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-skaterboy.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-woodcraft.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/gallery/g-woodcraft#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "iutbz52olc",
-      "Integrity": "2sJ3KOG+GJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/gallery/g-woodcraft.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/liberty#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "avcarqn4n9",
-      "Integrity": "Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/liberty.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/lighthouse#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8hqkotv21o",
-      "Integrity": "DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/lighthouse.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/minimalismo#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c23vzsbgls",
-      "Integrity": "vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/minimalismo.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/salad#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "k66bka4xym",
-      "Integrity": "9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/salad.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/shutterbug#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wjusiei76h",
-      "Integrity": "rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/shutterbug.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/skaterboy#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mxa6d32dcn",
-      "Integrity": "2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/skaterboy.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/woodcraft#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "z2052zttb9",
-      "Integrity": "q03MjIb4cfNq+GRtFWo94OWqR1xQVieX+uAVu3v6aJk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/woodcraft.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/news-web-site.png"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/testimonial-bg.jpg",
@@ -4026,6 +3774,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/js/plugins.js"
+    },
+    {
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/MerveCv.pdf",
+      "SourceId": "my-portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
+      "BasePath": "_content/my-portfolio",
+      "RelativePath": "hola-master/MerveCv#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wcieml6hok",
+      "Integrity": "kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/hola-master/MerveCv.pdf"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/js/site.js",
@@ -13045,8 +12814,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/beetle.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle.jpg",
+      "Route": "hola-master/images/portfolio/blog-web-site.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/blog-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13055,19 +12824,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25360"
+          "Value": "766404"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg=\""
+          "Value": "\"hSMTmMboBPPkbhBrTya00o+4JPkIoe1kurVIV3Jec20=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:24:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13077,13 +12846,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg="
+          "Value": "sha256-hSMTmMboBPPkbhBrTya00o+4JPkIoe1kurVIV3Jec20="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/beetle.sp6xmlign2.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle.jpg",
+      "Route": "hola-master/images/portfolio/blog-web-site.z64tqikorc.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/blog-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13092,19 +12861,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25360"
+          "Value": "766404"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg=\""
+          "Value": "\"hSMTmMboBPPkbhBrTya00o+4JPkIoe1kurVIV3Jec20=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:24:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13114,21 +12883,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sp6xmlign2"
+          "Value": "z64tqikorc"
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/portfolio/beetle.jpg"
+          "Value": "hola-master/images/portfolio/blog-web-site.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg="
+          "Value": "sha256-hSMTmMboBPPkbhBrTya00o+4JPkIoe1kurVIV3Jec20="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-beetle.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg",
+      "Route": "hola-master/images/portfolio/fastfood-web-site.f46lumwmmy.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/fastfood-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13137,19 +12906,64 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78971"
+          "Value": "1883539"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"1jOyh8ZQ+Pzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4=\""
+          "Value": "\"wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:24:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f46lumwmmy"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/images/portfolio/fastfood-web-site.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/images/portfolio/fastfood-web-site.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/fastfood-web-site.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1883539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 13:24:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13159,13 +12973,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1jOyh8ZQ+Pzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4="
+          "Value": "sha256-wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-beetle.uz63ip3cku.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg",
+      "Route": "hola-master/images/portfolio/freelancer-web-site.ha5x2wr5cw.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/freelancer-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13174,19 +12988,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78971"
+          "Value": "6696249"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"1jOyh8ZQ+Pzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4=\""
+          "Value": "\"CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p+GNBnJU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:25:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13196,21 +13010,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uz63ip3cku"
+          "Value": "ha5x2wr5cw"
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-beetle.jpg"
+          "Value": "hola-master/images/portfolio/freelancer-web-site.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1jOyh8ZQ+Pzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4="
+          "Value": "sha256-CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p+GNBnJU="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-bicycle.3hkfln3qsu.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-bicycle.jpg",
+      "Route": "hola-master/images/portfolio/freelancer-web-site.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/freelancer-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13219,64 +13033,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "264121"
+          "Value": "6696249"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"mUlCebKv8OboU8XYl+fDTxwg8U0GIu+/U2gpXPcjLaU=\""
+          "Value": "\"CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p+GNBnJU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3hkfln3qsu"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-bicycle.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mUlCebKv8OboU8XYl+fDTxwg8U0GIu+/U2gpXPcjLaU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-bicycle.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-bicycle.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "264121"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mUlCebKv8OboU8XYl+fDTxwg8U0GIu+/U2gpXPcjLaU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:25:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13286,13 +13055,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mUlCebKv8OboU8XYl+fDTxwg8U0GIu+/U2gpXPcjLaU="
+          "Value": "sha256-CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p+GNBnJU="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-liberty.3jci3gpefc.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-liberty.jpg",
+      "Route": "hola-master/images/portfolio/hotel-web-site.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/hotel-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13301,64 +13070,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "453914"
+          "Value": "6112872"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo+YSNg=\""
+          "Value": "\"6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3jci3gpefc"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-liberty.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo+YSNg="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-liberty.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-liberty.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "453914"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo+YSNg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:21:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13368,13 +13092,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo+YSNg="
+          "Value": "sha256-6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-lighthouse.ckdzfc8qu1.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-lighthouse.jpg",
+      "Route": "hola-master/images/portfolio/hotel-web-site.u6isjnxyhp.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/hotel-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13383,19 +13107,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "572193"
+          "Value": "6112872"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA=\""
+          "Value": "\"6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:21:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13405,21 +13129,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ckdzfc8qu1"
+          "Value": "u6isjnxyhp"
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-lighthouse.jpg"
+          "Value": "hola-master/images/portfolio/hotel-web-site.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA="
+          "Value": "sha256-6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-lighthouse.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-lighthouse.jpg",
+      "Route": "hola-master/images/portfolio/news-web-site.m73njofyna.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/news-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13428,56 +13152,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "572193"
+          "Value": "6240705"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA=\""
+          "Value": "\"/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-minimalismo.gd1lebqq09.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-minimalismo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163956"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:22:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13487,21 +13174,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gd1lebqq09"
+          "Value": "m73njofyna"
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-minimalismo.jpg"
+          "Value": "hola-master/images/portfolio/news-web-site.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ="
+          "Value": "sha256-/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk="
         }
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/gallery/g-minimalismo.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-minimalismo.jpg",
+      "Route": "hola-master/images/portfolio/news-web-site.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/news-web-site.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13510,19 +13197,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "163956"
+          "Value": "6240705"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ=\""
+          "Value": "\"/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:22:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13532,909 +13219,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-salad.25ezq9galw.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-salad.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "343678"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "25ezq9galw"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-salad.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-salad.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-salad.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "343678"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-shutterbug.6at9nsxycj.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-shutterbug.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "439861"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6at9nsxycj"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-shutterbug.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-shutterbug.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-shutterbug.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "439861"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-skaterboy.htrhjue64r.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-skaterboy.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "177679"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "htrhjue64r"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-skaterboy.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-skaterboy.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-skaterboy.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "177679"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-woodcraft.iutbz52olc.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-woodcraft.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "171332"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2sJ3KOG+GJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iutbz52olc"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/gallery/g-woodcraft.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2sJ3KOG+GJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/gallery/g-woodcraft.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-woodcraft.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "171332"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2sJ3KOG+GJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2sJ3KOG+GJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/liberty.avcarqn4n9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "94127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "avcarqn4n9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/liberty.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/liberty.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "94127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse.8hqkotv21o.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "128205"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8hqkotv21o"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/lighthouse.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "128205"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/minimalismo.c23vzsbgls.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34864"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c23vzsbgls"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/minimalismo.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/minimalismo.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34864"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "81901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad.k66bka4xym.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "81901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k66bka4xym"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/salad.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/shutterbug.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "77763"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/shutterbug.wjusiei76h.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "77763"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wjusiei76h"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/shutterbug.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53512"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy.mxa6d32dcn.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53512"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mxa6d32dcn"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/skaterboy.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/woodcraft.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q03MjIb4cfNq+GRtFWo94OWqR1xQVieX+uAVu3v6aJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-q03MjIb4cfNq+GRtFWo94OWqR1xQVieX+uAVu3v6aJk="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/woodcraft.z2052zttb9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28004"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q03MjIb4cfNq+GRtFWo94OWqR1xQVieX+uAVu3v6aJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z2052zttb9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/woodcraft.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-q03MjIb4cfNq+GRtFWo94OWqR1xQVieX+uAVu3v6aJk="
+          "Value": "sha256-/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk="
         }
       ]
     },
@@ -16089,6 +14874,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-R7azMKbcwQub3K1dVIFiFf8uEV9XcadQpDkIbuBaEqI="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/MerveCv.pdf",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/MerveCv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Jun 2025 15:02:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/MerveCv.wcieml6hok.pdf",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/MerveCv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Jun 2025 15:02:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wcieml6hok"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/MerveCv.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g="
         }
       ]
     },

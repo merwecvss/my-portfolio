@@ -576,209 +576,65 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gNftPz9LUGKPIZd424FJVefSAHwFvohVZ3j5DuKQcVw="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"866"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022gNftPz9LUGKPIZd424FJVefSAHwFvohVZ3j5DuKQcVw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/beetle.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\beetle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/blog-web-site.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\blog-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25360"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hSMTmMboBPPkbhBrTya00o\u002B4JPkIoe1kurVIV3Jec20="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"766404"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hSMTmMboBPPkbhBrTya00o\u002B4JPkIoe1kurVIV3Jec20=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:24:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/beetle.sp6xmlign2.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\beetle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/blog-web-site.z64tqikorc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\blog-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sp6xmlign2"},{"Name":"integrity","Value":"sha256-wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/beetle.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25360"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z64tqikorc"},{"Name":"integrity","Value":"sha256-hSMTmMboBPPkbhBrTya00o\u002B4JPkIoe1kurVIV3Jec20="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/blog-web-site.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"766404"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hSMTmMboBPPkbhBrTya00o\u002B4JPkIoe1kurVIV3Jec20=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:24:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-beetle.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-beetle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/fastfood-web-site.f46lumwmmy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\fastfood-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1jOyh8ZQ\u002BPzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78971"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221jOyh8ZQ\u002BPzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f46lumwmmy"},{"Name":"integrity","Value":"sha256-wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/fastfood-web-site.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1883539"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:24:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-beetle.uz63ip3cku.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-beetle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/fastfood-web-site.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\fastfood-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz63ip3cku"},{"Name":"integrity","Value":"sha256-1jOyh8ZQ\u002BPzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-beetle.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78971"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221jOyh8ZQ\u002BPzl/DpwcPhVAACEr3Gc044c7XZLqmNAJE4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1883539"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wXc8qDF3RAbOxmBayO0hSCphSCBxNusOJYZJTu2Yvso=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:24:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-bicycle.3hkfln3qsu.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-bicycle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/freelancer-web-site.ha5x2wr5cw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\freelancer-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3hkfln3qsu"},{"Name":"integrity","Value":"sha256-mUlCebKv8OboU8XYl\u002BfDTxwg8U0GIu\u002B/U2gpXPcjLaU="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-bicycle.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"264121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mUlCebKv8OboU8XYl\u002BfDTxwg8U0GIu\u002B/U2gpXPcjLaU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ha5x2wr5cw"},{"Name":"integrity","Value":"sha256-CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p\u002BGNBnJU="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/freelancer-web-site.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6696249"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p\u002BGNBnJU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:25:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-bicycle.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-bicycle.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/freelancer-web-site.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\freelancer-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mUlCebKv8OboU8XYl\u002BfDTxwg8U0GIu\u002B/U2gpXPcjLaU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"264121"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mUlCebKv8OboU8XYl\u002BfDTxwg8U0GIu\u002B/U2gpXPcjLaU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p\u002BGNBnJU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6696249"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CUv5B1QO8qhLrKa2fscpvmLoHqsOHg6jxm6p\u002BGNBnJU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:25:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-liberty.3jci3gpefc.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-liberty.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/hotel-web-site.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\hotel-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3jci3gpefc"},{"Name":"integrity","Value":"sha256-70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo\u002BYSNg="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-liberty.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"453914"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002270LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo\u002BYSNg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6112872"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:21:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-liberty.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-liberty.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/hotel-web-site.u6isjnxyhp.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\hotel-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-70LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo\u002BYSNg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"453914"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002270LzucyS4PQD7GW972ZeOM19SWQsm5e5H4eHmo\u002BYSNg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u6isjnxyhp"},{"Name":"integrity","Value":"sha256-6nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/hotel-web-site.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6112872"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226nXFXGKmHAfNLImglL8kZj21ImOFz4AjXn/ga4xBS/I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:21:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-lighthouse.ckdzfc8qu1.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-lighthouse.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/news-web-site.m73njofyna.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\news-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ckdzfc8qu1"},{"Name":"integrity","Value":"sha256-lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-lighthouse.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"572193"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m73njofyna"},{"Name":"integrity","Value":"sha256-/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/news-web-site.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6240705"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:22:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-lighthouse.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-lighthouse.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/news-web-site.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\news-web-site.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"572193"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lLG5oVyxsSLIKz7zLzcI4d/e0WhxxyRh53Lkv5rPDRA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-minimalismo.gd1lebqq09.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-minimalismo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gd1lebqq09"},{"Name":"integrity","Value":"sha256-zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-minimalismo.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"163956"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-minimalismo.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-minimalismo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"163956"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zAsXOc09V3Ln1vV0klRkJTDrNrSB6reWSta4Thlf7UQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-salad.25ezq9galw.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-salad.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"25ezq9galw"},{"Name":"integrity","Value":"sha256-VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-salad.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"343678"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-salad.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-salad.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"343678"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VtDnghZSAbEBVKYy5AfgQ4k3je6I4bGC6KeHx6l3sSM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-shutterbug.6at9nsxycj.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-shutterbug.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6at9nsxycj"},{"Name":"integrity","Value":"sha256-ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-shutterbug.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"439861"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-shutterbug.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-shutterbug.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"439861"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ggw0DKDdVsmQxCA0sADATUPd2/2OqRIiVifEvLJBzRU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-skaterboy.htrhjue64r.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-skaterboy.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"htrhjue64r"},{"Name":"integrity","Value":"sha256-683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-skaterboy.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"177679"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-skaterboy.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-skaterboy.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"177679"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022683ExJVxBg79iz/YFmRZTEKsNqH2hG7vhQ9SyNL5g3c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-woodcraft.iutbz52olc.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-woodcraft.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iutbz52olc"},{"Name":"integrity","Value":"sha256-2sJ3KOG\u002BGJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/gallery/g-woodcraft.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"171332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222sJ3KOG\u002BGJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/gallery/g-woodcraft.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\gallery\g-woodcraft.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2sJ3KOG\u002BGJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"171332"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222sJ3KOG\u002BGJ9PDVlo53lC1428mzkWaMOjwEzxI5mMPKA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/liberty.avcarqn4n9.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\liberty.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"avcarqn4n9"},{"Name":"integrity","Value":"sha256-Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/liberty.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94127"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/liberty.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\liberty.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94127"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wo2hVFOsbJnKO6oMQU7kauyL2d2eq2fR2jr0SJoVWfM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/lighthouse.8hqkotv21o.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\lighthouse.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8hqkotv21o"},{"Name":"integrity","Value":"sha256-DN/qDwcehmtoyW\u002B9GFHFnlSE2O5d4v449KtjTpk4ue4="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/lighthouse.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128205"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DN/qDwcehmtoyW\u002B9GFHFnlSE2O5d4v449KtjTpk4ue4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/lighthouse.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\lighthouse.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DN/qDwcehmtoyW\u002B9GFHFnlSE2O5d4v449KtjTpk4ue4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"128205"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DN/qDwcehmtoyW\u002B9GFHFnlSE2O5d4v449KtjTpk4ue4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/minimalismo.c23vzsbgls.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\minimalismo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c23vzsbgls"},{"Name":"integrity","Value":"sha256-vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/minimalismo.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34864"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/minimalismo.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\minimalismo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34864"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vDtwKPnCSeCe4n4hqksaIDJnaRgBY/jyfVv73xkBB9k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/salad.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\salad.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9I/QklseusrPzxWYwsOP4\u002BzoN8jbnu/ku34wDoiuoFc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"81901"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229I/QklseusrPzxWYwsOP4\u002BzoN8jbnu/ku34wDoiuoFc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/salad.k66bka4xym.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\salad.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k66bka4xym"},{"Name":"integrity","Value":"sha256-9I/QklseusrPzxWYwsOP4\u002BzoN8jbnu/ku34wDoiuoFc="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/salad.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"81901"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229I/QklseusrPzxWYwsOP4\u002BzoN8jbnu/ku34wDoiuoFc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/shutterbug.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\shutterbug.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77763"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/shutterbug.wjusiei76h.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\shutterbug.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wjusiei76h"},{"Name":"integrity","Value":"sha256-rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/shutterbug.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77763"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rLPzUt3p7Y1vGkfmOr2xaqnTTv6sSeqMVhBLeLpi0ZQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/skaterboy.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\skaterboy.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53512"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/skaterboy.mxa6d32dcn.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\skaterboy.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mxa6d32dcn"},{"Name":"integrity","Value":"sha256-2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/skaterboy.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53512"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/woodcraft.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\woodcraft.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q03MjIb4cfNq\u002BGRtFWo94OWqR1xQVieX\u002BuAVu3v6aJk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28004"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022q03MjIb4cfNq\u002BGRtFWo94OWqR1xQVieX\u002BuAVu3v6aJk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/portfolio/woodcraft.z2052zttb9.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\woodcraft.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z2052zttb9"},{"Name":"integrity","Value":"sha256-q03MjIb4cfNq\u002BGRtFWo94OWqR1xQVieX\u002BuAVu3v6aJk="},{"Name":"label","Value":"_content/my-portfolio/hola-master/images/portfolio/woodcraft.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28004"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022q03MjIb4cfNq\u002BGRtFWo94OWqR1xQVieX\u002BuAVu3v6aJk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6240705"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/szDUeNbEvO7vkuQHqA9XZ0lxEZwL8A/gfAPMt6ngzk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Sep 2025 13:22:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/images/testimonial-bg.41c5gr2e6j.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\testimonial-bg.jpg'))</AssetFile>
@@ -863,6 +719,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"splpe0s415"},{"Name":"integrity","Value":"sha256-MMiMzwhJosYYAIhZEd85ZaX//fHBPAGBQQx3P2s4yn8="},{"Name":"label","Value":"_content/my-portfolio/hola-master/js/plugins.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172221"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022MMiMzwhJosYYAIhZEd85ZaX//fHBPAGBQQx3P2s4yn8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 05 Apr 2024 06:40:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/MerveCv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\MerveCv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"156765"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 15:02:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-portfolio/hola-master/MerveCv.wcieml6hok.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\MerveCv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wcieml6hok"},{"Name":"integrity","Value":"sha256-kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g="},{"Name":"label","Value":"_content/my-portfolio/hola-master/MerveCv.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"156765"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022kMEdWv458QvAXFdvNnpCZkwjHPB/VQJqtzRt1EQMu7g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 15:02:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-portfolio/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
