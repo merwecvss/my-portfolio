@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CwmEKhT7LEblCJ1mW3x2+RBwEOvQFa4PEJmjDEQGvCk=",
+  "Hash": "7YXUbCEaZvc6RJyt5BYcTiZBc3ZHJRvgcmfWWZqKBrs=",
   "Source": "my-portfolio",
   "BasePath": "_content/my-portfolio",
   "Mode": "Default",
@@ -752,12 +752,12 @@
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/css/fonts.css"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-usgwjifqa1.gz",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-51rjbva2tv.gz",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/favicon#[.{fingerprint=usgwjifqa1}]?.ico.gz",
+      "RelativePath": "hola-master/favicon#[.{fingerprint=51rjbva2tv}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -766,8 +766,8 @@
       "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r7oyoybli0",
-      "Integrity": "F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=",
+      "Fingerprint": "8xwt9lx7vx",
+      "Integrity": "FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/favicon.ico"
@@ -920,27 +920,6 @@
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/css/ready.min.css"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fhx2wom8um-5296dcveo2.gz",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/readme#[.{fingerprint=5296dcveo2}]?.txt.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "9iofhpm4dy",
-      "Integrity": "0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fq9fv41506-8b38qlxh9f.gz",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -1044,27 +1023,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/h24w4h48ly-f5la0ylrk8.gz",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/styles#[.{fingerprint=f5la0ylrk8}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "1qqwy5uqfe",
-      "Integrity": "SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/hleok7g3t2-83jwlth58m.gz",
@@ -1548,27 +1506,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/fonts/line-awesome.svg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mfqe6orbpv-8tz0gnf0fz.gz",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/blog#[.{fingerprint=8tz0gnf0fz}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "itsz1f6tqq",
-      "Integrity": "pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mm3839ryho-87fc7y1x7t.gz",
@@ -2285,6 +2222,27 @@
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wnkmhc3d8b-pjoljk6djo.gz",
+      "SourceId": "my-portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/my-portfolio",
+      "RelativePath": "Ready-Bootstrap-Dashboard-master/assets/js/deneme#[.{fingerprint=pjoljk6djo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5pgoo58if4",
+      "Integrity": "d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+    },
+    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wpog04sm9d-d7ozlw4pul.gz",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -2516,27 +2474,6 @@
       "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/zycbjkfcv5-0kg15hp4tp.gz",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/blog-single#[.{fingerprint=0kg15hp4tp}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "053nzmpgo7",
-      "Integrity": "XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/scopedcss/bundle/my-portfolio.styles.css",
       "SourceId": "my-portfolio",
       "SourceType": "Computed",
@@ -2619,48 +2556,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/blog-single#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0kg15hp4tp",
-      "Integrity": "EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/blog-single.html"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/blog#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8tz0gnf0fz",
-      "Integrity": "tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/blog.html"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/css/base.css",
@@ -2887,8 +2782,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "usgwjifqa1",
-      "Integrity": "DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=",
+      "Fingerprint": "51rjbva2tv",
+      "Integrity": "mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/favicon.ico"
@@ -3503,48 +3398,6 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/avatars/user-05.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-01.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/blog/blog-bg-01#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6x21drtll9",
-      "Integrity": "9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/blog/blog-bg-01.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-02.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/blog/blog-bg-02#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fzpiqqzulr",
-      "Integrity": "CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/blog/blog-bg-02.jpg"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/contact-bg.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -3559,19 +3412,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mc57y53ee3",
-      "Integrity": "KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc=",
+      "Fingerprint": "y8vwvqlte0",
+      "Integrity": "zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/contact-bg.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/count-bg.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/count-bg#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/home-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3580,32 +3433,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ib04tz7vrn",
-      "Integrity": "YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU=",
+      "Fingerprint": "kpw086xwik",
+      "Integrity": "mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/count-bg.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/hero-bg.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/hero-bg#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xq6drngew6",
-      "Integrity": "l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/hero-bg.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/home-img.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/logo.png",
@@ -3622,8 +3454,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "86bpq8opqj",
-      "Integrity": "MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc=",
+      "Fingerprint": "zdlbobrtlx",
+      "Integrity": "+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/logo.png"
@@ -3711,27 +3543,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/beetle.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/beetle@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wo88r9y9br",
-      "Integrity": "AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/beetle@2x.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg",
@@ -3944,27 +3755,6 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/liberty.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/liberty@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "b9mcu2pdvw",
-      "Integrity": "r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/liberty@2x.jpg"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -3984,27 +3774,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/lighthouse.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/lighthouse@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zwiy5op1cw",
-      "Integrity": "Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/lighthouse@2x.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo.jpg",
@@ -4028,27 +3797,6 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/minimalismo.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/minimalismo@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cg9srhql7g",
-      "Integrity": "3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/minimalismo@2x.jpg"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -4068,27 +3816,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/salad.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/salad@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ob5y3itk0a",
-      "Integrity": "dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/salad@2x.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug.jpg",
@@ -4112,27 +3839,6 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/shutterbug.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/shutterbug@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "i9km141apd",
-      "Integrity": "FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/shutterbug@2x.jpg"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -4152,27 +3858,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/skaterboy.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/skaterboy@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0mzmn3zbd9",
-      "Integrity": "yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/skaterboy@2x.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft.jpg",
@@ -4196,48 +3881,6 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/woodcraft.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft@2x.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/portfolio/woodcraft@2x#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zvzbr9dd5h",
-      "Integrity": "b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/portfolio/woodcraft@2x.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/sample-image.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/sample-image#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "tjw147h3x5",
-      "Integrity": "99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/sample-image.jpg"
-    },
-    {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/testimonial-bg.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
@@ -4257,69 +3900,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/images/testimonial-bg.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-1000.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/wheel-1000#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "uttdlnv2p9",
-      "Integrity": "QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/wheel-1000.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-2000.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/wheel-2000#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "o7z6k7aty9",
-      "Integrity": "xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/wheel-2000.jpg"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-500.jpg",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/wheel-500#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1bag949if4",
-      "Integrity": "LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/wheel-500.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/inc/sendEmail.php",
@@ -4446,48 +4026,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/hola-master/js/plugins.js"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/readme#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5296dcveo2",
-      "Integrity": "XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/readme.txt"
-    },
-    {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html",
-      "SourceId": "my-portfolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
-      "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/styles#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "f5la0ylrk8",
-      "Integrity": "bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/styles.html"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/js/site.js",
@@ -6147,6 +5685,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/demo.js"
+    },
+    {
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "SourceId": "my-portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
+      "BasePath": "_content/my-portfolio",
+      "RelativePath": "Ready-Bootstrap-Dashboard-master/assets/js/deneme#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjoljk6djo",
+      "Integrity": "hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
@@ -7982,602 +7541,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/zycbjkfcv5-0kg15hp4tp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000249500998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/zycbjkfcv5-0kg15hp4tp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/zycbjkfcv5-0kg15hp4tp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000249500998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/zycbjkfcv5-0kg15hp4tp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mfqe6orbpv-8tz0gnf0fz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000473036897"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mfqe6orbpv-8tz0gnf0fz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mfqe6orbpv-8tz0gnf0fz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000473036897"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/mfqe6orbpv-8tz0gnf0fz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o="
         }
       ]
     },
@@ -10698,13 +9661,13 @@
       ]
     },
     {
-      "Route": "hola-master/favicon.ico",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-usgwjifqa1.gz",
+      "Route": "hola-master/favicon.51rjbva2tv.ico",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-51rjbva2tv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001996007984"
+          "Quality": "0.000037177485"
         }
       ],
       "ResponseHeaders": [
@@ -10714,15 +9677,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "26897"
         },
         {
           "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/favicon.51rjbva2tv.ico",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/favicon.51rjbva2tv.ico.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-51rjbva2tv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/favicon.ico",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-51rjbva2tv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037177485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10742,13 +9866,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
+          "Value": "W/\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
         }
       ]
     },
@@ -10763,7 +9887,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1150"
+          "Value": "27242"
         },
         {
           "Name": "Content-Type",
@@ -10771,11 +9895,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
+          "Value": "\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10785,13 +9909,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
         }
       ]
     },
     {
       "Route": "hola-master/favicon.ico.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-usgwjifqa1.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-51rjbva2tv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10800,7 +9924,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "26897"
         },
         {
           "Name": "Content-Type",
@@ -10808,11 +9932,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10830,168 +9954,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-usgwjifqa1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001996007984"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "500"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1150"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/cstthof215-usgwjifqa1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "500"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE="
+          "Value": "sha256-FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE="
         }
       ]
     },
@@ -13374,170 +12337,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/blog/blog-bg-01.6x21drtll9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "603975"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6x21drtll9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/blog/blog-bg-01.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-01.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "603975"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-02.fzpiqqzulr.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677574"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fzpiqqzulr"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/blog/blog-bg-02.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-02.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677574"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/contact-bg.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/contact-bg.jpg",
       "Selectors": [],
@@ -13548,7 +12347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511975"
+          "Value": "356208"
         },
         {
           "Name": "Content-Type",
@@ -13556,11 +12355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc=\""
+          "Value": "\"zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13570,12 +12369,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc="
+          "Value": "sha256-zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g="
         }
       ]
     },
     {
-      "Route": "hola-master/images/contact-bg.mc57y53ee3.jpg",
+      "Route": "hola-master/images/contact-bg.y8vwvqlte0.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/contact-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13585,7 +12384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511975"
+          "Value": "356208"
         },
         {
           "Name": "Content-Type",
@@ -13593,11 +12392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc=\""
+          "Value": "\"zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:45:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13607,7 +12406,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mc57y53ee3"
+          "Value": "y8vwvqlte0"
         },
         {
           "Name": "label",
@@ -13615,13 +12414,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc="
+          "Value": "sha256-zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g="
         }
       ]
     },
     {
-      "Route": "hola-master/images/count-bg.ib04tz7vrn.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/count-bg.jpg",
+      "Route": "hola-master/images/home-img.jpg",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13630,7 +12429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19566"
+          "Value": "1223089"
         },
         {
           "Name": "Content-Type",
@@ -13638,56 +12437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU=\""
+          "Value": "\"mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ib04tz7vrn"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/count-bg.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/count-bg.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/count-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19566"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:31:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13697,13 +12451,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU="
+          "Value": "sha256-mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY="
         }
       ]
     },
     {
-      "Route": "hola-master/images/hero-bg.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/hero-bg.jpg",
+      "Route": "hola-master/images/home-img.kpw086xwik.jpg",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13712,7 +12466,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "562191"
+          "Value": "1223089"
         },
         {
           "Name": "Content-Type",
@@ -13720,48 +12474,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc=\""
+          "Value": "\"mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/hero-bg.xq6drngew6.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/hero-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "562191"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:31:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13771,60 +12488,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xq6drngew6"
+          "Value": "kpw086xwik"
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/hero-bg.jpg"
+          "Value": "hola-master/images/home-img.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/logo.86bpq8opqj.png",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5238"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "86bpq8opqj"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/logo.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc="
+          "Value": "sha256-mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY="
         }
       ]
     },
@@ -13839,7 +12511,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5238"
+          "Value": "24782"
         },
         {
           "Name": "Content-Type",
@@ -13847,11 +12519,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc=\""
+          "Value": "\"+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:41:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13861,7 +12533,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc="
+          "Value": "sha256-+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/images/logo.zdlbobrtlx.png",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 13:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdlbobrtlx"
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4="
         }
       ]
     },
@@ -14406,88 +13123,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-wPWCZayyV1StddjwkNEbq57U6bRFpcSiVwEhcMzCYzg="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/beetle@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/beetle@2x.wo88r9y9br.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wo88r9y9br"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/beetle@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA="
         }
       ]
     },
@@ -15312,88 +13947,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/liberty@2x.b9mcu2pdvw.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9mcu2pdvw"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/liberty@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/liberty@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/lighthouse.8hqkotv21o.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
       "Selectors": [],
@@ -15472,88 +14025,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "278964"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse@2x.zwiy5op1cw.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "278964"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zwiy5op1cw"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/lighthouse@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo="
         }
       ]
     },
@@ -15640,88 +14111,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/minimalismo@2x.cg9srhql7g.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "85295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cg9srhql7g"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/minimalismo@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/minimalismo@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "85295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/salad.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
       "Selectors": [],
@@ -15800,88 +14189,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-9I/QklseusrPzxWYwsOP4+zoN8jbnu/ku34wDoiuoFc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "172551"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad@2x.ob5y3itk0a.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "172551"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ob5y3itk0a"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/salad@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw="
         }
       ]
     },
@@ -15968,88 +14275,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/shutterbug@2x.i9km141apd.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "166552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i9km141apd"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/shutterbug@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/shutterbug@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "166552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/skaterboy.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
       "Selectors": [],
@@ -16128,88 +14353,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-2vUg4DDm0zFMAncQHIkGqJVt4H7hkOOld6eOdgwK0Ks="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy@2x.0mzmn3zbd9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117682"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0mzmn3zbd9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/skaterboy@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117682"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8="
         }
       ]
     },
@@ -16296,170 +14439,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/woodcraft@2x.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84642"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/woodcraft@2x.zvzbr9dd5h.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84642"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zvzbr9dd5h"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/woodcraft@2x.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/sample-image.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/sample-image.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/sample-image.tjw147h3x5.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/sample-image.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tjw147h3x5"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/sample-image.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/testimonial-bg.41c5gr2e6j.jpg",
       "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/testimonial-bg.jpg",
       "Selectors": [],
@@ -16538,252 +14517,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-KMi054tn25MybTDavw3X3NloxD+VKCiMQshJxWaf9sk="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-1000.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-1000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78683"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-1000.uttdlnv2p9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-1000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78683"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uttdlnv2p9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-1000.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-2000.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-2000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163357"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-2000.o7z6k7aty9.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-2000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163357"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o7z6k7aty9"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-2000.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-500.1bag949if4.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-500.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39879"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1bag949if4"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-500.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-500.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-500.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39879"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU="
         }
       ]
     },
@@ -18356,602 +16089,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-R7azMKbcwQub3K1dVIFiFf8uEV9XcadQpDkIbuBaEqI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fhx2wom8um-5296dcveo2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000507614213"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4917"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fhx2wom8um-5296dcveo2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fhx2wom8um-5296dcveo2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000507614213"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4917"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/fhx2wom8um-5296dcveo2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/h24w4h48ly-f5la0ylrk8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000175500176"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26006"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/h24w4h48ly-f5la0ylrk8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/h24w4h48ly-f5la0ylrk8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000175500176"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26006"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html.gz",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/h24w4h48ly-f5la0ylrk8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA="
         }
       ]
     },
@@ -41146,6 +38283,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-pFZhQ6sX6zCOm0ZspaMMdra5sUNkXvQwU4U15Jh1wdc="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wnkmhc3d8b-pjoljk6djo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wnkmhc3d8b-pjoljk6djo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wnkmhc3d8b-pjoljk6djo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js.gz",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/obj/Debug/net9.0/compressed/wnkmhc3d8b-pjoljk6djo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY="
         }
       ]
     },

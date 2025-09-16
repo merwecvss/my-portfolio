@@ -4019,6 +4019,304 @@
       ]
     },
     {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY="
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdJRqDrHPpR23fM0982LRV9U2BaclyV3SCeVwM3dwmE="
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+        }
+      ]
+    },
+    {
+      "Route": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.pjoljk6djo.js.gz",
+      "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 12:07:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjoljk6djo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0kaXFjplPK4yeX/Y/pLXNIXnD7YJ8/Cg/YgGaev+bY="
+        },
+        {
+          "Name": "label",
+          "Value": "Ready-Bootstrap-Dashboard-master/assets/js/deneme.js.gz"
+        }
+      ]
+    },
+    {
       "Route": "Ready-Bootstrap-Dashboard-master/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
       "AssetFile": "Ready-Bootstrap-Dashboard-master/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js.gz",
       "Selectors": [
@@ -15337,602 +15635,6 @@
       ]
     },
     {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html",
-      "AssetFile": "hola-master/blog-single.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000249500998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html",
-      "AssetFile": "hola-master/blog-single.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.0kg15hp4tp.html.gz",
-      "AssetFile": "hola-master/blog-single.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kg15hp4tp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog-single.html.gz"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html",
-      "AssetFile": "hola-master/blog-single.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000249500998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html",
-      "AssetFile": "hola-master/blog-single.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EKP4brEUzIwmZwLf5IV2xvJjzs1EeVeh/4h04rQ+neY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog-single.html.gz",
-      "AssetFile": "hola-master/blog-single.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XOVT7WMFKFXlgj6ubA7+bjTgHwzsxqL6uy+vbkaI+zY="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html",
-      "AssetFile": "hola-master/blog.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000473036897"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html",
-      "AssetFile": "hola-master/blog.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.8tz0gnf0fz.html.gz",
-      "AssetFile": "hola-master/blog.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8tz0gnf0fz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/blog.html.gz"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html",
-      "AssetFile": "hola-master/blog.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000473036897"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html",
-      "AssetFile": "hola-master/blog.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11958"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tI7zezixYIuXact40nLD9fIL6Yx1eZgRV/tgov1yAzQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/blog.html.gz",
-      "AssetFile": "hola-master/blog.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2113"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pll8B25YBVMbjLyLyWgoCFkuk8Oqrl16n1PRJWjk36o="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/css/base.css",
       "AssetFile": "hola-master/css/base.css.gz",
       "Selectors": [
@@ -18049,13 +17751,174 @@
       ]
     },
     {
+      "Route": "hola-master/favicon.51rjbva2tv.ico",
+      "AssetFile": "hola-master/favicon.ico.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037177485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/favicon.51rjbva2tv.ico",
+      "AssetFile": "hola-master/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/favicon.51rjbva2tv.ico.gz",
+      "AssetFile": "hola-master/favicon.ico.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51rjbva2tv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE="
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/favicon.ico.gz"
+        }
+      ]
+    },
+    {
       "Route": "hola-master/favicon.ico",
       "AssetFile": "hola-master/favicon.ico.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001996007984"
+          "Quality": "0.000037177485"
         }
       ],
       "ResponseHeaders": [
@@ -18073,7 +17936,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "26897"
         },
         {
           "Name": "Content-Type",
@@ -18081,15 +17944,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
+          "Value": "W/\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         },
         {
           "Name": "Vary",
@@ -18099,7 +17962,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
         }
       ]
     },
@@ -18118,7 +17981,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1150"
+          "Value": "27242"
         },
         {
           "Name": "Content-Type",
@@ -18126,17 +17989,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
+          "Value": "\"mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
+          "Value": "sha256-mfZtTNP1o7og01+bXzY4NHJ/fGKrcw41hNOJP0THSDk="
         }
       ]
     },
@@ -18159,7 +18022,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "500"
+          "Value": "26897"
         },
         {
           "Name": "Content-Type",
@@ -18167,11 +18030,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
+          "Value": "\"FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 11:06:33 GMT"
         },
         {
           "Name": "Vary",
@@ -18181,168 +18044,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico",
-      "AssetFile": "hola-master/favicon.ico.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001996007984"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "500"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico",
-      "AssetFile": "hola-master/favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1150"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DgjgopP3tso43cu6+rQpKtHy1QeXxlA6qrMVxQrxTR8="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/favicon.usgwjifqa1.ico.gz",
-      "AssetFile": "hola-master/favicon.ico.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "500"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "usgwjifqa1"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-F39sz502m7l2borp//zpifFfNscd9EMf1sRfS2Bp0oE="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/favicon.ico.gz"
+          "Value": "sha256-FMe8fqBln5q/4CSpkI4jkQ41edOt4h1FMCZB0CmElhE="
         }
       ]
     },
@@ -20725,170 +20427,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/blog/blog-bg-01.6x21drtll9.jpg",
-      "AssetFile": "hola-master/images/blog/blog-bg-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "603975"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6x21drtll9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/blog/blog-bg-01.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-01.jpg",
-      "AssetFile": "hola-master/images/blog/blog-bg-01.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "603975"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9rGJ70TwYiWCU3hxWceef+pYwrFS97o1BtLsXBp+q6A="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-02.fzpiqqzulr.jpg",
-      "AssetFile": "hola-master/images/blog/blog-bg-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677574"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fzpiqqzulr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/blog/blog-bg-02.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/blog/blog-bg-02.jpg",
-      "AssetFile": "hola-master/images/blog/blog-bg-02.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "677574"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CwZ45pC2cSFemVLoR/P+eimN6kxB4Fl12eA5TbT4EhU="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/contact-bg.jpg",
       "AssetFile": "hola-master/images/contact-bg.jpg",
       "Selectors": [],
@@ -20903,7 +20441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511975"
+          "Value": "356208"
         },
         {
           "Name": "Content-Type",
@@ -20911,22 +20449,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc=\""
+          "Value": "\"zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:45:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc="
+          "Value": "sha256-zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g="
         }
       ]
     },
     {
-      "Route": "hola-master/images/contact-bg.mc57y53ee3.jpg",
+      "Route": "hola-master/images/contact-bg.y8vwvqlte0.jpg",
       "AssetFile": "hola-master/images/contact-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -20940,7 +20478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511975"
+          "Value": "356208"
         },
         {
           "Name": "Content-Type",
@@ -20948,21 +20486,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc=\""
+          "Value": "\"zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:45:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mc57y53ee3"
+          "Value": "y8vwvqlte0"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KqNfQzbN7ALnEaGnlxJvblGEcnAcdkzcFV5Sfg/c9Qc="
+          "Value": "sha256-zuJxSh6prTGCTs6Bnq0PdK/4Cv6x1fPGEIeOHqb89/g="
         },
         {
           "Name": "label",
@@ -20971,53 +20509,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/count-bg.ib04tz7vrn.jpg",
-      "AssetFile": "hola-master/images/count-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19566"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ib04tz7vrn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/count-bg.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/count-bg.jpg",
-      "AssetFile": "hola-master/images/count-bg.jpg",
+      "Route": "hola-master/images/home-img.jpg",
+      "AssetFile": "hola-master/images/home-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21030,7 +20523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19566"
+          "Value": "1223089"
         },
         {
           "Name": "Content-Type",
@@ -21038,60 +20531,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU=\""
+          "Value": "\"mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:31:06 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YkwnX0PQfTzfNxp+qprzPrnFyMLcsoq9OuFgtNrsDlU="
+          "Value": "sha256-mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY="
         }
       ]
     },
     {
-      "Route": "hola-master/images/hero-bg.jpg",
-      "AssetFile": "hola-master/images/hero-bg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "562191"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/hero-bg.xq6drngew6.jpg",
-      "AssetFile": "hola-master/images/hero-bg.jpg",
+      "Route": "hola-master/images/home-img.kpw086xwik.jpg",
+      "AssetFile": "hola-master/images/home-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21104,7 +20560,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "562191"
+          "Value": "1223089"
         },
         {
           "Name": "Content-Type",
@@ -21112,70 +20568,25 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc=\""
+          "Value": "\"mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:31:06 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xq6drngew6"
+          "Value": "kpw086xwik"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l2VtJecVTJ2o9DHbM9cD8tSZPPP6a+LgnkCCsHiVXlc="
+          "Value": "sha256-mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY="
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/hero-bg.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/logo.86bpq8opqj.png",
-      "AssetFile": "hola-master/images/logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5238"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "86bpq8opqj"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/logo.png"
+          "Value": "hola-master/images/home-img.jpg"
         }
       ]
     },
@@ -21194,7 +20605,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5238"
+          "Value": "24782"
         },
         {
           "Name": "Content-Type",
@@ -21202,17 +20613,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc=\""
+          "Value": "\"+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
+          "Value": "Tue, 16 Sep 2025 13:41:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MMHq1bknnDjeAs2dG67HoRIl1kRHh9Jp5lHVg1V4dPc="
+          "Value": "sha256-+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4="
+        }
+      ]
+    },
+    {
+      "Route": "hola-master/images/logo.zdlbobrtlx.png",
+      "AssetFile": "hola-master/images/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 13:41:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdlbobrtlx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+are9rUHlQfWnuqp+rqCdT2DQcLxaj4Im/VjqqzYDA4="
+        },
+        {
+          "Name": "label",
+          "Value": "hola-master/images/logo.png"
         }
       ]
     },
@@ -21757,88 +21213,6 @@
         {
           "Name": "label",
           "Value": "hola-master/images/portfolio/beetle.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/beetle@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/beetle@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/beetle@2x.wo88r9y9br.jpg",
-      "AssetFile": "hola-master/images/portfolio/beetle@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wo88r9y9br"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AAMP9GvFj8L1vdlxmcHZ28d3I5Vsu99MVYVUljJJ3eA="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/beetle@2x.jpg"
         }
       ]
     },
@@ -22663,88 +22037,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/liberty@2x.b9mcu2pdvw.jpg",
-      "AssetFile": "hola-master/images/portfolio/liberty@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9mcu2pdvw"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/liberty@2x.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/liberty@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/liberty@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "185858"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r/HvsY0gKz9S/YhhWtICQuqGf2KhcyU5lITeLtJ0Q2Q="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/lighthouse.8hqkotv21o.jpg",
       "AssetFile": "hola-master/images/portfolio/lighthouse.jpg",
       "Selectors": [],
@@ -22823,88 +22115,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-DN/qDwcehmtoyW+9GFHFnlSE2O5d4v449KtjTpk4ue4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/lighthouse@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "278964"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/lighthouse@2x.zwiy5op1cw.jpg",
-      "AssetFile": "hola-master/images/portfolio/lighthouse@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "278964"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zwiy5op1cw"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q+k6dwtBu+w0KFJ5Qf6rljStb6ducc+eaWzwvoMlDyo="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/lighthouse@2x.jpg"
         }
       ]
     },
@@ -22991,88 +22201,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/minimalismo@2x.cg9srhql7g.jpg",
-      "AssetFile": "hola-master/images/portfolio/minimalismo@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "85295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cg9srhql7g"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/minimalismo@2x.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/minimalismo@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/minimalismo@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "85295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3N32hplwos52e5mMU5H3vOBimPsIYBkE2pZp2j8lItI="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/salad.jpg",
       "AssetFile": "hola-master/images/portfolio/salad.jpg",
       "Selectors": [],
@@ -23151,88 +22279,6 @@
         {
           "Name": "label",
           "Value": "hola-master/images/portfolio/salad.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/salad@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "172551"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/salad@2x.ob5y3itk0a.jpg",
-      "AssetFile": "hola-master/images/portfolio/salad@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "172551"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ob5y3itk0a"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dIrevQ2WSys7BRNNbK4LBycaYhFmJ5i2YkLXCOVGscw="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/salad@2x.jpg"
         }
       ]
     },
@@ -23319,88 +22365,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/shutterbug@2x.i9km141apd.jpg",
-      "AssetFile": "hola-master/images/portfolio/shutterbug@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "166552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i9km141apd"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/shutterbug@2x.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/shutterbug@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/shutterbug@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "166552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FtEu7XIFz+ZtwD5fkdg2eUoNaPEp+lBIyKXtB39/OtE="
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/portfolio/skaterboy.jpg",
       "AssetFile": "hola-master/images/portfolio/skaterboy.jpg",
       "Selectors": [],
@@ -23479,88 +22443,6 @@
         {
           "Name": "label",
           "Value": "hola-master/images/portfolio/skaterboy.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy@2x.0mzmn3zbd9.jpg",
-      "AssetFile": "hola-master/images/portfolio/skaterboy@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117682"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0mzmn3zbd9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/skaterboy@2x.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/skaterboy@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/skaterboy@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117682"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLBqAQ8+dq8+qg/L43lnVPOVIKIObGfu/yhXzacnsF8="
         }
       ]
     },
@@ -23647,170 +22529,6 @@
       ]
     },
     {
-      "Route": "hola-master/images/portfolio/woodcraft@2x.jpg",
-      "AssetFile": "hola-master/images/portfolio/woodcraft@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84642"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/portfolio/woodcraft@2x.zvzbr9dd5h.jpg",
-      "AssetFile": "hola-master/images/portfolio/woodcraft@2x.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84642"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zvzbr9dd5h"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-b1niDjSYJJdHFSHS2WQD4W8h4XF5CMSMSapyADf5cfI="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/portfolio/woodcraft@2x.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/sample-image.jpg",
-      "AssetFile": "hola-master/images/sample-image.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/sample-image.tjw147h3x5.jpg",
-      "AssetFile": "hola-master/images/sample-image.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tjw147h3x5"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-99R9sETM7LCCV6Kak8PXKimBL3M3XJFWqX7Q/VMsNG0="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/sample-image.jpg"
-        }
-      ]
-    },
-    {
       "Route": "hola-master/images/testimonial-bg.41c5gr2e6j.jpg",
       "AssetFile": "hola-master/images/testimonial-bg.jpg",
       "Selectors": [],
@@ -23889,252 +22607,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-KMi054tn25MybTDavw3X3NloxD+VKCiMQshJxWaf9sk="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-1000.jpg",
-      "AssetFile": "hola-master/images/wheel-1000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78683"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-1000.uttdlnv2p9.jpg",
-      "AssetFile": "hola-master/images/wheel-1000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78683"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uttdlnv2p9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QjnFeXthQ31WGf6R8xFaBmqIteiBb0g6iAvKMcev+0E="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-1000.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-2000.jpg",
-      "AssetFile": "hola-master/images/wheel-2000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163357"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-2000.o7z6k7aty9.jpg",
-      "AssetFile": "hola-master/images/wheel-2000.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163357"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o7z6k7aty9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xOdZUpFCJzRgMT8lI+Hp4v7BAoFlqU0S6gRWsnwBcUI="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-2000.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-500.1bag949if4.jpg",
-      "AssetFile": "hola-master/images/wheel-500.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39879"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1bag949if4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/images/wheel-500.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/images/wheel-500.jpg",
-      "AssetFile": "hola-master/images/wheel-500.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39879"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LeET89Fk9Uw8C5fVgDqYdT5QatIu3EP//ZpoxdO/SVU="
         }
       ]
     },
@@ -25707,602 +24179,6 @@
         {
           "Name": "label",
           "Value": "hola-master/js/plugins.js.gz"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt",
-      "AssetFile": "hola-master/readme.txt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000507614213"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt",
-      "AssetFile": "hola-master/readme.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4917"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.5296dcveo2.txt.gz",
-      "AssetFile": "hola-master/readme.txt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5296dcveo2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/readme.txt.gz"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt",
-      "AssetFile": "hola-master/readme.txt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000507614213"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt",
-      "AssetFile": "hola-master/readme.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4917"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcBr6gJi3k1OwLf4pPlzgHfyC1FdgOvG8C+5/Up4VkQ="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/readme.txt.gz",
-      "AssetFile": "hola-master/readme.txt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0T5CdfNoaBgcBQXs0AGqTwwVzZu1U1u/5PxxR8ju31w="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html",
-      "AssetFile": "hola-master/styles.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000175500176"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html",
-      "AssetFile": "hola-master/styles.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26006"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.f5la0ylrk8.html.gz",
-      "AssetFile": "hola-master/styles.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f5la0ylrk8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA="
-        },
-        {
-          "Name": "label",
-          "Value": "hola-master/styles.html.gz"
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html",
-      "AssetFile": "hola-master/styles.html.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000175500176"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html",
-      "AssetFile": "hola-master/styles.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26006"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bZ4tMCiU8O6yMEsC0ggMr5J/13vn1v+rJ8wnmVtVjK4="
-        }
-      ]
-    },
-    {
-      "Route": "hola-master/styles.html.gz",
-      "AssetFile": "hola-master/styles.html.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 05 Apr 2024 06:40:27 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SUVxT6SCr8kgQAz38ifweC2iRbNEX8fhbYLrdFtIWPA="
         }
       ]
     },

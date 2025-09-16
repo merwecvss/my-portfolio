@@ -6,10 +6,10 @@
         <div class="col-full">
             <h3>Portfolio</h3>
             <h1>Son Projelerime Göz Atabilirsiniz</h1>
-            
+
             <p class="lead">
-                Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse 
-                Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam 
+                Lorem ipsum Dolor adipisicing nostrud et aute Excepteur amet commodo ea dolore irure esse
+                Duis nulla sint fugiat cillum ullamco proident aliquip quis qui voluptate dolore veniam
                 Ut laborum non est in officia.
             </p>
         </div>
@@ -22,11 +22,11 @@
                 <div class="masonry__brick">
                     <div class="item-folio">
                         <div class="item-folio__thumb">
-                            <a href="@item.Url" class="thumb-link" title="@item.Title" data-size="1050x700">
-                                <img src="@item.ImageUrl" 
-                                     alt="@item.Title" />
+                            <a href="@item.Url" target="_blank" title="@item.Title">
+                                <img src="@Url.Content("~/" + item.ImageUrl)" alt="@item.Title" />
                                 <span class="shadow-overlay"></span>
                             </a>
+
                         </div>
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">@item.Title</h3>

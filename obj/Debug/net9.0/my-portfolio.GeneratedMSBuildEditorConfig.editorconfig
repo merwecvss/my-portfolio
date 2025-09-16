@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9FZGl0Q29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaEJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Experience/CreateExperience.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZXJpZW5jZS9DcmVhdGVFeHBlcmllbmNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +58,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Experience/ExperienceList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXhwZXJpZW5jZS9FeHBlcmllbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Feature/EditFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9FZGl0RmVhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Feature/FeatureList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9GZWF0dXJlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/Views/Layout/index.cshtml]

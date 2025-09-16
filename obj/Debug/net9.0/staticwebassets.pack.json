@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets/Ready-Bootstrap-Dashboard-master/assets/js/demo.js"
     },
     {
+      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js",
+      "PackagePath": "staticwebassets/Ready-Bootstrap-Dashboard-master/assets/js/deneme.js"
+    },
+    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/Ready-Bootstrap-Dashboard-master/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
       "PackagePath": "staticwebassets/Ready-Bootstrap-Dashboard-master/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"
     },
@@ -321,14 +325,6 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog-single.html",
-      "PackagePath": "staticwebassets/hola-master/blog-single.html"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/blog.html",
-      "PackagePath": "staticwebassets/hola-master/blog.html"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/css/base.css",
       "PackagePath": "staticwebassets/hola-master/css/base.css"
     },
@@ -489,24 +485,12 @@
       "PackagePath": "staticwebassets/hola-master/images/avatars/user-05.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-01.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/blog/blog-bg-01.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/blog/blog-bg-02.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/blog/blog-bg-02.jpg"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/contact-bg.jpg",
       "PackagePath": "staticwebassets/hola-master/images/contact-bg.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/count-bg.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/count-bg.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/hero-bg.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/hero-bg.jpg"
+      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
+      "PackagePath": "staticwebassets/hola-master/images/home-img.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/logo.png",
@@ -527,10 +511,6 @@
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/beetle.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/beetle@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/beetle@2x.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/gallery/g-beetle.jpg",
@@ -573,76 +553,32 @@
       "PackagePath": "staticwebassets/hola-master/images/portfolio/liberty.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/liberty@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/liberty@2x.jpg"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/lighthouse.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/lighthouse@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/lighthouse@2x.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/minimalismo.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/minimalismo@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/minimalismo@2x.jpg"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/salad.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/salad@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/salad@2x.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/shutterbug.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/shutterbug@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/shutterbug@2x.jpg"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/skaterboy.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/skaterboy@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/skaterboy@2x.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft.jpg",
       "PackagePath": "staticwebassets/hola-master/images/portfolio/woodcraft.jpg"
     },
     {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/portfolio/woodcraft@2x.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/portfolio/woodcraft@2x.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/sample-image.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/sample-image.jpg"
-    },
-    {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/testimonial-bg.jpg",
       "PackagePath": "staticwebassets/hola-master/images/testimonial-bg.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-1000.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/wheel-1000.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-2000.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/wheel-2000.jpg"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/wheel-500.jpg",
-      "PackagePath": "staticwebassets/hola-master/images/wheel-500.jpg"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/inc/sendEmail.php",
@@ -667,14 +603,6 @@
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/js/plugins.js",
       "PackagePath": "staticwebassets/hola-master/js/plugins.js"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/readme.txt",
-      "PackagePath": "staticwebassets/hola-master/readme.txt"
-    },
-    {
-      "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/styles.html",
-      "PackagePath": "staticwebassets/hola-master/styles.html"
     },
     {
       "Id": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/js/site.js",

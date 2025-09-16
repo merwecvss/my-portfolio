@@ -49,19 +49,17 @@ namespace my_portfolio.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult ChangeToDoListStatusToTrue(int id)
+        [HttpPost]
+        public IActionResult ChangeToDoListStatus(int id, bool status)
         {
             var value = context.ToDoLists.Find(id);
-            value.Status = true;
-            context.SaveChanges();
-            return RedirectToAction("Index");
+            if (value != null)
+            {
+                value.Status = status;
+                context.SaveChanges();
+            }
+            return Ok();
         }
-        public IActionResult ChangeToDoListStatusToFalse(int id)
-        {
-            var value = context.ToDoLists.Find(id);
-            value.Status = false;
-            context.SaveChanges();
-            return RedirectToAction("Index");
-        }
+
     }
 }
