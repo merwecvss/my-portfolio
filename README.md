@@ -34,7 +34,6 @@ Proje benim deneyimimlerimle oluşan bir web sitesidir.
 ![alt text](proje-gorsel/3.png)
 ![alt text](proje-gorsel/4.png)
 ![alt text](proje-gorsel/5.png)
-![alt text](proje-gorsel/7.png)
 ![alt text](proje-gorsel/8.png)
 ![alt text](proje-gorsel/9.png)
 ![alt text](proje-gorsel/10.png)
