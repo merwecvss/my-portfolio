@@ -954,6 +954,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\news-web-site.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\otel-web-site.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>my-portfolio</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/my-portfolio</BasePath>
+      <RelativePath>hola-master/images/portfolio/otel-web-site.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pkroj5asw7</Fingerprint>
+      <Integrity>mWjfOa4TW7wA3cJEKuK/IwWw4tJ8USJUNee30C8iOdM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\portfolio\otel-web-site.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hola-master\images\testimonial-bg.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>my-portfolio</SourceId>
@@ -2442,29 +2460,11 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>51eejsgih6</Fingerprint>
-      <Integrity>d15KK/vwlDmPQZtAVe51l6UK3r2XowZmktM5h8421ns=</Integrity>
+      <Fingerprint>m0g0h9m8ar</Fingerprint>
+      <Integrity>FiYXMsxVO5h/zy9tnkB2InphV7AwefHMoiRC85rBUpg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\assets\img\profile.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\assets\img\profile2.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>my-portfolio</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/my-portfolio</BasePath>
-      <RelativePath>Ready-Bootstrap-Dashboard-master/assets/img/profile2.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9rknme3nwm</Fingerprint>
-      <Integrity>K3kpwDnEPcKkcMRaG9QxBAWbPgSejC3MMg2FfWnIbXk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\assets\img\profile2.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Ready-Bootstrap-Dashboard-master\assets\js\core\bootstrap.min.js'))">
       <SourceType>Package</SourceType>
