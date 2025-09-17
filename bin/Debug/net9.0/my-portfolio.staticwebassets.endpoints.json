@@ -20591,8 +20591,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/home-img.jpg",
-      "AssetFile": "hola-master/images/home-img.jpg",
+      "Route": "hola-master/images/home.jpg",
+      "AssetFile": "hola-master/images/home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20628,8 +20628,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/home-img.kpw086xwik.jpg",
-      "AssetFile": "hola-master/images/home-img.jpg",
+      "Route": "hola-master/images/home.kpw086xwik.jpg",
+      "AssetFile": "hola-master/images/home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20668,7 +20668,7 @@
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/home-img.jpg"
+          "Value": "hola-master/images/home.jpg"
         }
       ]
     },

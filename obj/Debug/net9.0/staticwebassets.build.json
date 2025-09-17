@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WVPxoPTLEdQZ+e8DTbKpFKV0ozM38NVqYU0lipVRMjM=",
+  "Hash": "N4AQPQQTwiNqBGUhckNstBc5fbj1Dqu2raiAww8cQwE=",
   "Source": "my-portfolio",
   "BasePath": "_content/my-portfolio",
   "Mode": "Default",
@@ -3419,12 +3419,12 @@
       "OriginalItemSpec": "wwwroot/hola-master/images/contact-bg.jpg"
     },
     {
-      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
+      "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home.jpg",
       "SourceId": "my-portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/",
       "BasePath": "_content/my-portfolio",
-      "RelativePath": "hola-master/images/home-img#[.{fingerprint}]?.jpg",
+      "RelativePath": "hola-master/images/home#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3437,7 +3437,7 @@
       "Integrity": "mJWIOuyeXikQOpb1Idk1Id/12TpWQhYhkVhoTn87plY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/hola-master/images/home-img.jpg"
+      "OriginalItemSpec": "wwwroot/hola-master/images/home.jpg"
     },
     {
       "Identity": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/logo.png",
@@ -12188,8 +12188,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/home-img.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
+      "Route": "hola-master/images/home.jpg",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12225,8 +12225,8 @@
       ]
     },
     {
-      "Route": "hola-master/images/home-img.kpw086xwik.jpg",
-      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home-img.jpg",
+      "Route": "hola-master/images/home.kpw086xwik.jpg",
+      "AssetFile": "/Users/mervecavusoglu/Desktop/Web tasarımı/my-portfolio/wwwroot/hola-master/images/home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12261,7 +12261,7 @@
         },
         {
           "Name": "label",
-          "Value": "hola-master/images/home-img.jpg"
+          "Value": "hola-master/images/home.jpg"
         },
         {
           "Name": "integrity",
